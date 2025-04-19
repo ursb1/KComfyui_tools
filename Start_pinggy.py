@@ -1,4 +1,3 @@
-%%writefile start_pinggy.py
 import subprocess
 import time
 import re
