@@ -1,4 +1,3 @@
-%%writefile start_pinggy_simple.py
 import pexpect
 import sys
 import re
